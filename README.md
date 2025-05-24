@@ -30,18 +30,29 @@ This project provides core database functionality through an intuitive command-l
 ##  Project Structure
 Bash-Script-DBMS/
 ├── main.sh # Main entry point
+
 ├── helpers.sh # Shared utility functions
+
 │
 ├── database_operations/
+
 ├── createdb.sh # Create new database
+
 ├── listdbs.sh # List all databases
+
 ├── connect.sh # Connect to database
+
 └── dropdb.sh # Delete database
+
 │
 ├── table_operations/
+
 ├── createTable.sh # Create new table
+
 ├── listTables.sh # List all tables
+
 └── dropTable.sh # Delete table
+
 │
 └── data_operations/
 ├── insertTable.sh # Insert records

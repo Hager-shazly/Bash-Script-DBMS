@@ -9,7 +9,7 @@ This project provides core database functionality through an intuitive command-l
 -  Create new databases
 -  List all available databases
 -  Connect to existing databases
-- 🗑 Drop (delete) databases
+-  Drop (delete) databases
 
 ### Table Operations
 -  Create tables with custom columns
@@ -24,7 +24,7 @@ This project provides core database functionality through an intuitive command-l
 
 ### User Experience
 -  Interactive menu-driven interface
-- Helper functions for common operations
+-  Helper functions for common operations
 -  Basic error handling and validation
 
 ##  Project Structure

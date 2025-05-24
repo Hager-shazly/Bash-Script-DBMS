@@ -55,9 +55,13 @@ Bash-Script-DBMS/
 
 │
 └── data_operations/
+
 ├── insertTable.sh # Insert records
+
 ├── selectFrom.sh # Query records
+
 ├── updateTable.sh # Update records
+
 └── deleteFrom.sh # Delete records
 
 ## Usage Example
